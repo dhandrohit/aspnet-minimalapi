@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4pZ2ZkjuKpxZn7UVwsiYDTQKz3hbrJs5dNUCi5Sh1Eo=",
+  "Source": "ASPNET6MinimalAPI",
+  "BasePath": "_content/ASPNET6MinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPNET6MinimalAPI.props" />
+</Project>
